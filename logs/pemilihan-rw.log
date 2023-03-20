@@ -1,0 +1,291 @@
+2023-03-20 13:26:12,282 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 7240 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 13:26:12,285 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 13:26:12,286 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 13:26:12,757 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 13:26:12,812 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 47 ms. Found 1 JPA repository interfaces.
+2023-03-20 13:26:13,278 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 13:26:13,285 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:26:13,286 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 13:26:13,286 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 13:26:13,363 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 13:26:13,365 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1033 ms
+2023-03-20 13:26:13,498 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 13:26:13,544 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 13:26:13,756 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 13:26:13,845 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@489110c2
+2023-03-20 13:26:13,847 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 13:26:13,869 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 13:26:14,480 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 13:26:14,487 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:26:14,520 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 13:26:14,957 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:26:14,972 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 13:26:14,979 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.186 seconds (process running for 3.539)
+2023-03-20 13:27:45,042 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:27:45,043 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 13:27:45,048 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 13:27:48,317 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 18664 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 13:27:48,319 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 13:27:48,320 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 13:27:48,831 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 13:27:48,883 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interfaces.
+2023-03-20 13:27:49,352 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 13:27:49,360 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:27:49,361 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 13:27:49,361 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 13:27:49,430 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 13:27:49,431 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1066 ms
+2023-03-20 13:27:49,567 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 13:27:49,613 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 13:27:49,816 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 13:27:49,906 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7a3f08b6
+2023-03-20 13:27:49,907 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 13:27:49,928 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 13:27:50,542 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 13:27:50,548 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:27:50,577 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 13:27:51,019 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:27:51,035 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 13:27:51,042 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.198 seconds (process running for 3.499)
+2023-03-20 13:28:11,183 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:28:11,185 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 13:28:11,189 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 13:37:57,388 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 18980 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 13:37:57,391 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 13:37:57,391 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 13:37:57,845 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 13:37:57,893 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interfaces.
+2023-03-20 13:37:58,379 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 13:37:58,386 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:37:58,387 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 13:37:58,387 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 13:37:58,454 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 13:37:58,456 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1021 ms
+2023-03-20 13:37:58,587 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 13:37:58,635 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 13:37:58,837 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 13:37:58,923 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@632cf7d3
+2023-03-20 13:37:58,924 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 13:37:58,947 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 13:37:59,170 ERROR o.s.o.j.AbstractEntityManagerFactoryBean [main] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'tahun_awal' is duplicated in mapping for entity 'com.pemilihan.rw.entity.Periode' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
+2023-03-20 13:37:59,170 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'tahun_awal' is duplicated in mapping for entity 'com.pemilihan.rw.entity.Periode' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
+2023-03-20 13:37:59,171 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Shutdown initiated...
+2023-03-20 13:37:59,217 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Shutdown completed.
+2023-03-20 13:37:59,220 INFO o.a.j.l.DirectJDKLog [main] Stopping service [Tomcat]
+2023-03-20 13:37:59,230 INFO o.s.b.a.l.ConditionEvaluationReportLogger [main] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-03-20 13:37:59,246 ERROR o.s.b.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'tahun_awal' is duplicated in mapping for entity 'com.pemilihan.rw.entity.Periode' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1762)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1132)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:907)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1293)
+	at com.pemilihan.rw.PemilihanRwApplication.main(PemilihanRwApplication.java:10)
+Caused by: jakarta.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Column 'tahun_awal' is duplicated in mapping for entity 'com.pemilihan.rw.entity.Periode' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1758)
+	... 16 common frames omitted
+Caused by: org.hibernate.MappingException: Column 'tahun_awal' is duplicated in mapping for entity 'com.pemilihan.rw.entity.Periode' (use '@Column(insertable=false, updatable=false)' when mapping multiple properties to the same column)
+	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:1009)
+	at org.hibernate.mapping.PersistentClass.checkPropertyColumnDuplication(PersistentClass.java:1027)
+	at org.hibernate.mapping.PersistentClass.checkColumnDuplication(PersistentClass.java:1055)
+	at org.hibernate.mapping.PersistentClass.validate(PersistentClass.java:720)
+	at org.hibernate.mapping.RootClass.validate(RootClass.java:283)
+	at org.hibernate.boot.internal.MetadataImpl.validate(MetadataImpl.java:376)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:301)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1423)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	... 20 common frames omitted
+2023-03-20 13:38:19,949 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 16416 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 13:38:19,951 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 13:38:19,952 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 13:38:20,496 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 13:38:20,556 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interfaces.
+2023-03-20 13:38:21,038 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 13:38:21,047 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:38:21,047 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 13:38:21,048 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 13:38:21,126 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 13:38:21,127 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1126 ms
+2023-03-20 13:38:21,256 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 13:38:21,310 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 13:38:21,519 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 13:38:21,609 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@632cf7d3
+2023-03-20 13:38:21,610 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 13:38:21,633 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 13:38:22,278 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 13:38:22,284 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:38:22,321 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 13:38:22,760 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 13:38:22,776 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 13:38:22,783 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.316 seconds (process running for 3.631)
+2023-03-20 13:38:29,376 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 13:38:29,378 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 13:38:29,384 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 14:50:41,656 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 25900 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 14:50:41,658 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 14:50:41,659 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 14:50:42,196 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 14:50:42,257 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 53 ms. Found 2 JPA repository interfaces.
+2023-03-20 14:50:42,748 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 14:50:42,755 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:50:42,756 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 14:50:42,757 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 14:50:42,824 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 14:50:42,826 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1121 ms
+2023-03-20 14:50:42,962 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 14:50:43,005 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 14:50:43,279 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 14:50:43,371 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3b57dba4
+2023-03-20 14:50:43,373 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 14:50:43,400 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 14:50:43,991 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.pemilihan.rw.entity.TokenPemilih (class must be instantiated by Interceptor)
+2023-03-20 14:50:44,179 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 14:50:44,188 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:50:44,547 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 14:50:44,835 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:50:44,859 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 14:50:44,867 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.676 seconds (process running for 5.101)
+2023-03-20 14:52:42,079 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-20 14:52:42,079 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-20 14:52:42,080 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2023-03-20 14:53:21,030 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:53:21,033 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 14:53:21,036 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 14:53:24,676 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 12216 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 14:53:24,679 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 14:53:24,680 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 14:53:25,205 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 14:53:25,267 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 56 ms. Found 2 JPA repository interfaces.
+2023-03-20 14:53:25,804 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 14:53:25,811 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:53:25,811 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 14:53:25,812 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 14:53:25,883 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 14:53:25,885 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1147 ms
+2023-03-20 14:53:26,022 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 14:53:26,086 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 14:53:26,321 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 14:53:26,411 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@626c569b
+2023-03-20 14:53:26,413 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 14:53:26,437 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 14:53:26,956 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.pemilihan.rw.entity.TokenPemilih (class must be instantiated by Interceptor)
+2023-03-20 14:53:27,099 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 14:53:27,106 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:53:27,420 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 14:53:27,705 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:53:27,724 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 14:53:27,733 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.583 seconds (process running for 3.88)
+2023-03-20 14:53:31,216 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-20 14:53:31,216 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-20 14:53:31,218 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2023-03-20 14:53:57,858 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:53:57,861 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 14:53:57,867 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 14:54:01,396 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 14144 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 14:54:01,398 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 14:54:01,399 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 14:54:01,911 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 14:54:01,973 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 55 ms. Found 2 JPA repository interfaces.
+2023-03-20 14:54:02,488 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 14:54:02,495 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:54:02,496 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 14:54:02,496 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 14:54:02,569 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 14:54:02,570 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1125 ms
+2023-03-20 14:54:02,705 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 14:54:02,753 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 14:54:02,968 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 14:54:03,050 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@626c569b
+2023-03-20 14:54:03,051 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 14:54:03,073 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 14:54:03,604 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.pemilihan.rw.entity.TokenPemilih (class must be instantiated by Interceptor)
+2023-03-20 14:54:03,774 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 14:54:03,780 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:54:04,103 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 14:54:04,362 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:54:04,379 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 14:54:04,386 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.444 seconds (process running for 3.756)
+2023-03-20 14:54:10,293 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-20 14:54:10,293 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2023-03-20 14:54:10,294 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2023-03-20 14:54:38,492 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:54:38,494 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 14:54:38,501 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 14:55:02,087 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 4628 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 14:55:02,090 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 14:55:02,090 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 14:55:02,608 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 14:55:02,666 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+2023-03-20 14:55:03,155 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 14:55:03,162 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:55:03,163 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 14:55:03,163 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 14:55:03,235 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 14:55:03,236 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1098 ms
+2023-03-20 14:55:03,371 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 14:55:03,423 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 14:55:03,631 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 14:55:03,715 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@79be91eb
+2023-03-20 14:55:03,716 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 14:55:03,739 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 14:55:04,237 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.pemilihan.rw.entity.TokenPemilih (class must be instantiated by Interceptor)
+2023-03-20 14:55:04,378 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 14:55:04,385 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:55:04,678 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 14:55:04,965 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 14:55:04,981 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 14:55:04,987 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.371 seconds (process running for 3.668)
+2023-03-20 14:55:11,288 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 14:55:11,290 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 14:55:11,294 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-20 15:00:25,338 INFO o.s.b.StartupInfoLogger [main] Starting PemilihanRwApplication using Java 19.0.2 with PID 22860 (D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW\target\classes started by RikoJanuarSawaludin in D:\Kuliah\Semester 6\TPLI\Tugas Akhir\Pemilihan-RW)
+2023-03-20 15:00:25,339 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.0.4, Spring v6.0.6
+2023-03-20 15:00:25,340 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-20 15:00:25,885 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-20 15:00:25,961 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 66 ms. Found 2 JPA repository interfaces.
+2023-03-20 15:00:26,478 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-03-20 15:00:26,485 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-20 15:00:26,486 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-20 15:00:26,486 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-20 15:00:26,570 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-20 15:00:26,571 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1169 ms
+2023-03-20 15:00:26,718 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-20 15:00:26,764 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-03-20 15:00:26,992 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-20 15:00:27,081 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@79be91eb
+2023-03-20 15:00:27,083 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-20 15:00:27,108 INFO o.h.e.j.d.i.DialectFactoryImpl [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-20 15:00:27,611 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.pemilihan.rw.entity.TokenPemilih (class must be instantiated by Interceptor)
+2023-03-20 15:00:27,751 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-20 15:00:27,758 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 15:00:28,077 WARN o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-20 15:00:28,386 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-03-20 15:00:28,408 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/pemilihan-rw'
+2023-03-20 15:00:28,417 INFO o.s.b.StartupInfoLogger [main] Started PemilihanRwApplication in 3.55 seconds (process running for 3.844)
+2023-03-20 15:00:31,700 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-20 15:00:31,701 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-20 15:00:31,701 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2023-03-20 15:02:09,368 INFO c.p.r.c.AdminController [http-nio-8080-exec-5] Generate Token Berhasil
+2023-03-20 15:03:44,597 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-20 15:03:44,598 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-20 15:03:44,603 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
